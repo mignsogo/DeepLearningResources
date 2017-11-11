@@ -12,10 +12,15 @@
 * [FaceNet: A Unified Embedding for Face Recognition and Clustering](http://blog.csdn.net/chenriwei2/article/details/45031677)(cvpr2015, [paper](https://arxiv.org/abs/1503.03832))
 ### Brain Science
 * [Tests suggest the methods of neuroscience are left wanting](https://www.economist.com/news/science-and-technology/21714978-cautionary-tale-about-promises-modern-brain-science-tests-suggest)([中文版](https://kknews.cc/zh-tw/science/59yejyk.html))
+### Some discussions
+* [幻想AI自己打開黑箱？谷歌工程總監說：所謂解釋，全是編的](https://kknews.cc/tech/rzvzxvr.html)
+* [可解釋的AI系統為人工智慧開啟下一階段，讓算法解釋決策過程](https://kknews.cc/science/nqqxzx2.html)
+* [Science：科学家终于打开了神经网络的黑箱](https://www.jiqizhixin.com/articles/2017-03-09-2)
 
 ## Programming
 * [在Keras中使用圖像增強來進行深度學習](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.0-image-augmentation.ipynb)
 * [Luminoth：基於TensorFlow的開源計算機視覺工具包](http://bangqu.com/u3Qf49.html)
+* [Face classification and detection from the B-IT-BOTS robotics team](https://github.com/oarriaga/face_classification)
 
 ## Tools
 * [NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS/blob/master/docs/UbuntuInstall.md)
@@ -28,6 +33,7 @@
 * [Nvidia Online Labs](https://www.nvidia.com/en-us/deep-learning-ai/education/)
 
 ## Courses & Communities
+* [many online courses(indirect)](https://buzzorange.com/techorange/2017/08/21/the-best-ai-lesson/)
 * [深度學習一點都不難！(indirect)](https://buzzorange.com/techorange/2017/03/22/freeailesson/)
 
 ## Datasets
